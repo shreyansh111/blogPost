@@ -1,0 +1,6 @@
+{
+  "env":{
+    "MONGO_ATLUS_PASSWORD":"Kn7pWdOw0mXDGPOq",
+    "JWT_KEY":"just_a_remimder_you_are_a_great_guy"
+  }
+}
